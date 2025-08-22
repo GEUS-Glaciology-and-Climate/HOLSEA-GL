@@ -43,7 +43,7 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![NW](https://img.shields.io/badge/nw-f97316?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/NW)  
 [![CW](https://img.shields.io/badge/cw-f43f5e?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/CW)  
 
-### How to contribute
+## How to contribute
 If you would like to contribute then you are welcome to propose changes by uploading discrete alterations to the datasets. You will need to be registered as a Github user in order to do so:
 
 1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this Github repository
