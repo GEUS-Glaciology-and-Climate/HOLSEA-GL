@@ -8,6 +8,19 @@ We welcome contributions of new data to the HOLSEA-GL database. To contribute:
 
 ### Data labels
 
+### How to contribute
+If you would like to contribute then you are welcome to propose changes by uploading discrete alterations to the datasets. You will need to be registered as a Github user in order to do so:
+
+1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this Github repository
+2. [Create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) in your forked repository
+3. Upload (also referred to as ["push"](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)) your proposed alterations to the branch under the "submitted_changes" directory
+4. Open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and include the following information in the PR description:
+   - The aim of your changes
+   - Details of what these changes are
+   - Any limitations or further development needed
+
+A member of the HOLSEA-GL team will review your submission once a pull request is open. If/when your pull request is accepted then your changes will be merged and you will be listed as a contributor to the dataset.
+
 ## See an issue with the dataset?
 We invite users to use this repository to raise issues regarding the database.
 
@@ -43,15 +56,30 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![NW](https://img.shields.io/badge/nw-f97316?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/NW)  
 [![CW](https://img.shields.io/badge/cw-f43f5e?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/CW)  
 
-## How to contribute
-If you would like to contribute then you are welcome to propose changes by uploading discrete alterations to the datasets. You will need to be registered as a Github user in order to do so:
+## Dataset readme
+### Dataset contents
+HOLSEA-GL is a comprehensive, open-access database consolidating all available deglacial marine limit and RSL data from Greenland. The database follows the HOLSEA format and ensures robust error reporting. We integrated over 3,000 distinct data points from more than 120 publications and literature sources, spanning more than 140 years of field observations. This extensive dataset reflects advancements in measurement techniques and an evolving understanding of marine deposits and RSL indicators. HOLSEA-GL will undergo regular updates to incorporate new findings and adhere to international standards for reporting marine limit and RSL data. The following files are included in this dataset:
 
-1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this Github repository
-2. [Create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) in your forked repository
-3. Upload (also referred to as ["push"](https://docs.github.com/en/get-started/using-git/pushing-commits-to-a-remote-repository)) your proposed alterations to the branch under the "submitted_changes" directory
-4. Open a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) and include the following information in the PR description:
-   - The aim of your changes
-   - Details of what these changes are
-   - Any limitations or further development needed
+- ***00-README-HOLSEA_GL.md***: This dataset readme file
+- 
+### Data format
 
-A member of the HOLSEA-GL team will review your submission once a pull request is open. If/when your pull request is accepted then your changes will be merged and you will be listed as a contributor to the dataset.
+### Metadata
+The following metadata information is included in the corresponding files:
+| Variable name       | Description         | Format | 
+|---------------------|---------------------|---------|
+
+### Using the dataset
+The dataset is openly available on the [GEUS Dataverse](https://dataverse.geus.dk/dataverse/HOLSEA-GL) for downloading, distributed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
+### Terms of use
+If the dataset is presented or used to support results of any kind then we ask that a reference to the dataset and the dataset description be included in publications, along with any relevant publications from the data production team:
+
+- *Luetzenburg et al. (2025) HOLSEA-GL, https://doi.org/, GEUS Dataverse.*
+- *Luetzenburg et al. (in prepr.) HOLSEA-GL: A Holocene Relative Sea-Level Database for Greenland. Scientific Data, https://doi.org/.*
+
+And include the following statement in the acknowledgements:
+
+*"RSL and marine limit data provided by Luetzenburg et al. 2025 at the Geological Survey of Denmark and Greenland (GEUS)."*
+
+If the dataset is crucial to the main findings, we encourage users to reach out to the authorship team as this will likely improve the quality of the work that uses this product.
