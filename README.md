@@ -7,6 +7,10 @@ We welcome contributions of new data to the HOLSEA-GL database. To contribute:
 - Add your data
 
 ### Data labels
+Make use of the data labels to ensure that new contributions are categorised accordingly:
+[![newly-published-data](https://img.shields.io/badge/newly--published--data-53a9c1?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/newly-published-data)
+[![newly-unpblished-data](https://img.shields.io/badge/newly--unpublished--data-d17eb6?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/newly-unpublished-data)
+[![missing-data](https://img.shields.io/badge/missing--data-505977?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/missing-data)
 
 ### How to contribute
 If you would like to contribute then you are welcome to propose changes by uploading discrete alterations to the datasets. You will need to be registered as a Github user in order to do so:
@@ -44,7 +48,7 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![invalid-elevation](https://img.shields.io/badge/invalid--elevation-60a5fa?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-elevation)
 [![invalid-indicative-meaning](https://img.shields.io/badge/invalid--indicative--meaning-f472b6?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-indicative-meaning)
 [![invalid-QC](https://img.shields.io/badge/invalid--QC-34d399?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-QC)
-[![missing-data](https://img.shields.io/badge/missing--data-ef4444?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/missing-data)
+[![missing-data](https://img.shields.io/badge/missing--data-505977?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/missing-data)
 [![duplicate](https://img.shields.io/badge/duplicate-cfd3d7?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/duplicate)
 [![other](https://img.shields.io/badge/other-9ca3af?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/other)
 
