@@ -3,8 +3,9 @@ This repository is a forum to contribute with new data to HOLSEA-GL and for data
 
 ## Contribute with new data
 We welcome contributions of new data to the HOLSEA-GL database. To contribute:
-- Download the modified HOLSEA-GL.xlsx template from
-- Add your data
+- Download the modified ***HOLSEA-GL-new-data-template.xlsx*** template here
+- Add your data to the template
+- Contribute your data to this Github repository
 
 ### Data labels
 Make use of the data labels to ensure that new contributions are categorised accordingly:
