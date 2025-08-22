@@ -1,5 +1,12 @@
 # HOLSEA-GL
-This repository is a forum for data issues related to HOLSEA-GL. HOLSEA-GL is a curated database of Holocene relative sea-level (RSL) and marine limit records from Greenland hosted at the Geological Survey of Denmark and Greenland (GEUS).
+This repository is a forum to contribute with new data to HOLSEA-GL and for data issues related to the existing dataset. HOLSEA-GL is a curated database of Holocene relative sea-level (RSL) and marine limit records from Greenland hosted at the Geological Survey of Denmark and Greenland (GEUS).
+
+## Contribute with new data
+We welcome contributions of new data to the HOLSEA-GL database. To contribute:
+- Download the modified HOLSEA-GL.xlsx template from
+- Add your data
+
+### Data labels
 
 ## See an issue with the dataset?
 We invite users to use this repository to raise issues regarding the database.
@@ -15,10 +22,8 @@ Once posted, someone from the HOLSEA-GL team will respond to the issue with a cl
 
 See [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue) for a thorough guide on creating issues in a Github repository.
 
-#### Issue labels
+### Issue labels
 Make use of the issue labels to ensure that data issues are categorised accordingly:
-
-### Issue Type
 
 [![invalid-identifier](https://img.shields.io/badge/invalid--identifier-f87171?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-identifier)  
 [![invalid-location](https://img.shields.io/badge/invalid--location-fbbf24?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-location)  
