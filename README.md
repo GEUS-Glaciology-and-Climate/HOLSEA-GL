@@ -18,25 +18,25 @@ See [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/usin
 #### Issue labels
 Make use of the issue labels to ensure that data issues are categorised accordingly:
 
-**Issue Type**
+### Issue Type
 
-[![invalid-identifier](https://img.shields.io/badge/invalid--identifier-f073b9?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-identifier)
-[![invalid-location](https://img.shields.io/badge/invalid--location-7636d2?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-location)
-[![invalid-age](https://img.shields.io/badge/invalid--age-bf40bf?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-age)
-[![invalid-elevation](https://img.shields.io/badge/invalid--elevation-9d4edd?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-elevation)
-[![invalid-indicative-meaning](https://img.shields.io/badge/invalid--indicative--meaning-d946ef?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-indicative-meaning)
-[![invalid-QC](https://img.shields.io/badge/invalid--QC-a21caf?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-QC)
-[![missing-data](https://img.shields.io/badge/missing--data-ef4444?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/missing-data)
-[![other](https://img.shields.io/badge/other-6b7280?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/other)
+[![invalid-identifier](https://img.shields.io/badge/invalid--identifier-f87171?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-identifier)  
+[![invalid-location](https://img.shields.io/badge/invalid--location-fbbf24?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-location)  
+[![invalid-age](https://img.shields.io/badge/invalid--age-a78bfa?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-age)  
+[![invalid-elevation](https://img.shields.io/badge/invalid--elevation-60a5fa?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-elevation)  
+[![invalid-indicative-meaning](https://img.shields.io/badge/invalid--indicative--meaning-f472b6?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-indicative-meaning)  
+[![invalid-QC](https://img.shields.io/badge/invalid--QC-34d399?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-QC)  
+[![missing-data](https://img.shields.io/badge/missing--data-ef4444?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/missing-data)  
+[![other](https://img.shields.io/badge/other-9ca3af?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/other)  
 
-**Region**
+### Region
 
-[![SW](https://img.shields.io/badge/sw-50dfd7?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/PROMICE-ice-mask/labels/SW)
-[![SE](https://img.shields.io/badge/se-2e471e?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/PROMICE-ice-mask/labels/SE)
-[![CE](https://img.shields.io/badge/ce-edc2e0?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/PROMICE-ice-mask/labels/CE)
-[![NE](https://img.shields.io/badge/ne-8adffd?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/PROMICE-ice-mask/labels/NE)
-[![NW](https://img.shields.io/badge/nw-b05c4c?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/PROMICE-ice-mask/labels/NW)
-[![CW](https://img.shields.io/badge/cw-ab524c?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/PROMICE-ice-mask/labels/CW)
+[![SW](https://img.shields.io/badge/sw-22d3ee?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/SW)  
+[![SE](https://img.shields.io/badge/se-84cc16?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/SE)  
+[![CE](https://img.shields.io/badge/ce-facc15?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/CE)  
+[![NE](https://img.shields.io/badge/ne-38bdf8?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/NE)  
+[![NW](https://img.shields.io/badge/nw-f97316?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/NW)  
+[![CW](https://img.shields.io/badge/cw-f43f5e?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/CW)  
 
 ### How to contribute
 If you would like to contribute then you are welcome to propose changes by uploading discrete alterations to the datasets. You will need to be registered as a Github user in order to do so:
