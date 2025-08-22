@@ -45,7 +45,7 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![invalid-indicative-meaning](https://img.shields.io/badge/invalid--indicative--meaning-f472b6?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-indicative-meaning)  
 [![invalid-QC](https://img.shields.io/badge/invalid--QC-34d399?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/invalid-QC)  
 [![missing-data](https://img.shields.io/badge/missing--data-ef4444?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/missing-data)  
-[![duplicate](https://img.shields.io/badge/duplicate-#cfd3d7?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/duplicate)
+[![duplicate](https://img.shields.io/badge/duplicate-cfd3d7?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/duplicate)
 [![other](https://img.shields.io/badge/other-9ca3af?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/other) 
 
 ### Region
