@@ -8,6 +8,7 @@ We welcome contributions of new data to the HOLSEA-GL database. To contribute:
 
 ### Data labels
 Make use of the data labels to ensure that new contributions are categorised accordingly:
+
 [![newly-published-data](https://img.shields.io/badge/newly--published--data-53a9c1?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/newly-published-data)
 [![newly-unpblished-data](https://img.shields.io/badge/newly--unpublished--data-d17eb6?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/newly-unpublished-data)
 [![missing-data](https://img.shields.io/badge/missing--data-505977?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/missing-data)
