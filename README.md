@@ -94,8 +94,5 @@ The following files are included in this dataset:
 
 Each file name is followed by its version number.
 
-### Issues with the dataset
-We welcome feedback from the scientific sea-level community regarding the HOLSEA-GL dataset. Issues, suggestions, or corrections can be submitted via the project's [GitHub repository](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL).
-
 ## Acknowledgements
 This work has been supported by the Carlsberg Foundation, Grant CF21-0521 and the Novo Nordisk Foundation under the Challenge Programme 2023 - Grant number NNF23OC00807040.
