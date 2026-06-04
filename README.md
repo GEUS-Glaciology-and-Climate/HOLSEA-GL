@@ -56,7 +56,7 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![duplicate](https://img.shields.io/badge/duplicate-cfd3d7?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/duplicate)
 [![other](https://img.shields.io/badge/other-9ca3af?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/other)
 
-### Terms of use
+## Terms of use
 If the dataset is presented or used to support results of any kind we ask that a reference to the Data Descriptor be included in publications:
 
 *Luetzenburg et al. (in review) HOLSEA-GL: a Holocene marine limit and relative sea-level database for Kalaallit Nunaat (Greenland), [https://doi.org/](https://doi.org/)*
@@ -67,7 +67,7 @@ And include the following statement in the acknowledgements:
 
 If the dataset is crucial to the main findings, we encourage users to reach out to the authorship team as this will likely improve the quality of the work that uses this product.
 
-### Usage notes
+## Usage notes
 HOLSEA-GL consists of two separate spreadsheets: HOLSEA-GL-ML and HOLSEA-GL-RSL, containing all available observations of Holocene marine limits and relative sea-level (RSL) for Greenland, respectively. The marine limit records the highest RSL elevation (no age) following deglaciation at a given site. In contrast, each RSL observation consists of an indicator below the marine limit recording the elevation and age of a transition from a marine to a terrestrial environment, or vice versa throughout the entire Holocene. 
 
 The data format follows the HOLSEA format, and column headings are explained within the workbook instructions at [https://www.holsea.org/](https://www.holsea.org/). We added several columns to the standard HOLSEA format, which are described in the data descriptor. The HOLSEA workbook contains the following sheets:
@@ -81,7 +81,7 @@ Each observation in both spreadsheets carries a QC rating that reflects the reli
 
 When plotting local RSL curves, RSL observations should be subset by RSL cluster (column 4d), as observations from different clusters may reflect distinct glacio-isostatic histories and should not be combined across large geographical distances.
 
-### Dataset contents
+## Dataset contents
 The following files are included in this dataset:
 
 - ***00-README-HOLSEA-GL-Dataverse.md***: This dataset readme file
@@ -92,5 +92,5 @@ The following files are included in this dataset:
 
 Each file name is followed by its version number.
 
-### Acknowledgements
+## Acknowledgements
 This work has been supported by the Carlsberg Foundation, Grant CF21-0521 and the Novo Nordisk Foundation under the Challenge Programme 2023 - Grant number NNF23OC00807040.
