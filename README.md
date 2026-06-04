@@ -64,29 +64,47 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![CW](https://img.shields.io/badge/cw-f43f5e?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/CW)
 
 ## Dataset readme
-### Dataset contents
-HOLSEA-GL is a comprehensive, open-access database consolidating all available deglacial marine limit and RSL data from Greenland. The database follows the HOLSEA format and ensures robust error reporting. We integrated over 3,000 distinct data points from more than 120 publications and literature sources, spanning more than 140 years of field observations. This extensive dataset reflects advancements in measurement techniques and an evolving understanding of marine deposits and RSL indicators. HOLSEA-GL will undergo regular updates to incorporate new findings and adhere to international standards for reporting marine limit and RSL data. The following files are included in this dataset:
 
-- ***00-README-HOLSEA_GL.md***: This dataset readme file
-- 
-### Data format
-
-### Metadata
-The following metadata information is included in the corresponding files:
-| Variable name       | Description         | Format | 
-|---------------------|---------------------|---------|
-
-### Using the dataset
 The dataset is openly available on the [GEUS Dataverse](https://dataverse.geus.dk/dataverse/HOLSEA-GL) for downloading, distributed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ### Terms of use
-If the dataset is presented or used to support results of any kind then we ask that a reference to the dataset and the dataset description be included in publications, along with any relevant publications from the data production team:
+If the dataset is presented or used to support results of any kind we ask that a reference to the Data Descriptor be included in publications:
 
-- *Luetzenburg et al. (2025) HOLSEA-GL, https://doi.org/, GEUS Dataverse.*
-- *Luetzenburg et al. (in prepr.) HOLSEA-GL: A Holocene Relative Sea-Level Database for Greenland. Scientific Data, https://doi.org/.*
+*Luetzenburg et al. (in review) HOLSEA-GL: a Holocene marine limit and relative sea-level database for Kalaallit Nunaat (Greenland), [https://doi.org/](https://doi.org/)*
 
 And include the following statement in the acknowledgements:
 
-*"RSL and marine limit data provided by Luetzenburg et al. 2025 at the Geological Survey of Denmark and Greenland (GEUS)."*
+*"RSL and marine limit data provided by Luetzenburg et al. 2026 at the Geological Survey of Denmark and Greenland (GEUS)."*
 
 If the dataset is crucial to the main findings, we encourage users to reach out to the authorship team as this will likely improve the quality of the work that uses this product.
+
+### Usage notes
+HOLSEA-GL consists of two separate spreadsheets: HOLSEA-GL-ML and HOLSEA-GL-RSL, containing all available observations of Holocene marine limits and relative sea-level (RSL) for Greenland, respectively. The marine limit records the highest RSL elevation (no age) following deglaciation at a given site. In contrast, each RSL observation consists of an indicator below the marine limit recording the elevation and age of a transition from a marine to a terrestrial environment, or vice versa throughout the entire Holocene. 
+
+The data format follows the HOLSEA format, and column headings are explained within the workbook instructions at [https://www.holsea.org/](https://www.holsea.org/). We added several columns to the standard HOLSEA format, which are described in the data descriptor. The HOLSEA workbook contains the following sheets:
+
+- *a long-form table intended for authors to use to compile their database*
+- *a short-form table that are linked to and populated from the long-form table*
+- *dating method specific tables*
+- *standardized column specific tables*
+
+Each observation in both spreadsheets carries a QC rating that reflects the reliability of the age and elevation constraints as well as the indicator type. Generally, observations with a high QC rating (>3) can be considered representative of the marine limit or RSL for a specific area on their own. Observations with a medium to low QC rating (2–3) should not be treated as individually representative, but multiple agreeing observations from the same area with medium to low ratings can be combined to increase confidence in the reconstructed marine limit or RSL. 
+
+When plotting local RSL curves, RSL observations should be subset by RSL cluster (column 4d), as observations from different clusters may reflect distinct glacio-isostatic histories and should not be combined across large geographical distances.
+
+### Dataset contents
+The following files are included in this dataset:
+
+- ***00-README-HOLSEA-GL-Dataverse.md***: This dataset readme file
+- ***01-ML-HOLSEA-GL.xlsx***: XLSX file with Holocene marine limit observations for Greenland in the HOLSEA format including available sheets.
+- ***02-ML-HOLSEA-GL.csv***: CSV file with Holocene marine limit observations for Greenland in the HOLSEA format including long-from columns.
+- ***03-RSL-HOLSEA-GL.xlsx***: XLSX file with Holocene RSL observations for Greenland in the HOLSEA format including available sheets.
+- ***04-RSL-HOLSEA-GL.csv***: CSV file with Holocene RSL observations for Greenland in the HOLSEA format including long-from columns.
+
+Each file name is followed by its version number.
+
+### Issues with the dataset
+We welcome feedback from the scientific sea-level community regarding the HOLSEA-GL dataset. Issues, suggestions, or corrections can be submitted via the project's [GitHub repository](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL).
+
+## Acknowledgements
+This work has been supported by the Carlsberg Foundation, Grant CF21-0521 and the Novo Nordisk Foundation under the Challenge Programme 2023 - Grant number NNF23OC00807040.
