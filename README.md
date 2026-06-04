@@ -1,6 +1,8 @@
 # HOLSEA-GL
 This repository is a forum to contribute with new data to HOLSEA-GL and for data issues related to the existing dataset. HOLSEA-GL is a curated database of Holocene relative sea-level (RSL) and marine limit records from Greenland hosted at the Geological Survey of Denmark and Greenland (GEUS).
 
+The dataset is openly available on the [GEUS Dataverse](https://dataverse.geus.dk/dataverse/HOLSEA-GL) for downloading, distributed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
 ## Contribute with new data
 We welcome contributions of new data to the HOLSEA-GL database. To contribute:
 - Download the modified ***HOLSEA-GL-new-data-template.xlsx*** template here
@@ -54,10 +56,6 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![duplicate](https://img.shields.io/badge/duplicate-cfd3d7?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/duplicate)
 [![other](https://img.shields.io/badge/other-9ca3af?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/other)
 
-## Dataset readme
-
-The dataset is openly available on the [GEUS Dataverse](https://dataverse.geus.dk/dataverse/HOLSEA-GL) for downloading, distributed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
-
 ### Terms of use
 If the dataset is presented or used to support results of any kind we ask that a reference to the Data Descriptor be included in publications:
 
@@ -94,5 +92,5 @@ The following files are included in this dataset:
 
 Each file name is followed by its version number.
 
-## Acknowledgements
+### Acknowledgements
 This work has been supported by the Carlsberg Foundation, Grant CF21-0521 and the Novo Nordisk Foundation under the Challenge Programme 2023 - Grant number NNF23OC00807040.
