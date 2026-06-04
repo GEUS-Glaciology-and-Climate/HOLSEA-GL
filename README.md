@@ -54,15 +54,6 @@ Make use of the issue labels to ensure that data issues are categorised accordin
 [![duplicate](https://img.shields.io/badge/duplicate-cfd3d7?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/duplicate)
 [![other](https://img.shields.io/badge/other-9ca3af?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/issues/labels/other)
 
-### Region
-
-[![SW](https://img.shields.io/badge/sw-22d3ee?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/SW)
-[![SE](https://img.shields.io/badge/se-84cc16?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/SE)
-[![CE](https://img.shields.io/badge/ce-facc15?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/CE)
-[![NE](https://img.shields.io/badge/ne-38bdf8?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/NE)
-[![NW](https://img.shields.io/badge/nw-f97316?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/NW)
-[![CW](https://img.shields.io/badge/cw-f43f5e?style=flat&logo=github)](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/labels/CW)
-
 ## Dataset readme
 
 The dataset is openly available on the [GEUS Dataverse](https://dataverse.geus.dk/dataverse/HOLSEA-GL) for downloading, distributed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
