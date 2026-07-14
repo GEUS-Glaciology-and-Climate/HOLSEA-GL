@@ -5,7 +5,7 @@ The dataset is openly available on the [GEUS Dataverse](https://dataverse.geus.d
 
 ## Contribute with new data
 We welcome contributions of new data to the HOLSEA-GL database. To contribute:
-- Download the modified [HOLSEA marine limit](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/blob/main/ML-HOLSEA-GL-new-data-template.xlsx) or [HOLSEA RSL](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/blob/main/RSL-HOLSEA-GL-new-data-template.xlsx) template here
+- Download the modified [HOLSEA marine limit](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/blob/main/07-HOLSEA-GL-ML-new-data-template-v1.xlsx) or [HOLSEA RSL](https://github.com/GEUS-Glaciology-and-Climate/HOLSEA-GL/blob/main/08-HOLSEA-GL-RSL-new-data-template-v1.xlsx) template here
 - Add your data to the template
 - Contribute your data to this Github repository
 
