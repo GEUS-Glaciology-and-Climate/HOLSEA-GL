@@ -68,7 +68,7 @@ And include the following statement in the acknowledgements:
 If the dataset is crucial to the main findings, we encourage users to reach out to the authorship team as this will likely improve the quality of the work that uses this product.
 
 ## Usage notes
-HOLSEA-GL consists of two separate spreadsheets: HOLSEA-GL-ML and HOLSEA-GL-RSL, containing all available observations of Holocene marine limits and relative sea-level (RSL) for Greenland, respectively. The marine limit records the highest RSL elevation (no age) following deglaciation at a given site. In contrast, each RSL observation consists of an indicator below the marine limit recording the elevation and age of a transition from a marine to a terrestrial environment, or vice versa throughout the entire Holocene. 
+HOLSEA-GL consists of two separate spreadsheets: HOLSEA-GL-ML and HOLSEA-GL-RSL, containing all available observations of Holocene marine limit (ML) and relative sea-level (RSL) for Greenland, respectively. The marine limit records the highest RSL elevation (no age) following deglaciation at a given site. In contrast, each RSL observation consists of an indicator below the marine limit recording the elevation and age of a transition from a marine to a terrestrial environment, or vice versa throughout the entire Holocene. 
 
 The data format follows the HOLSEA format, and column headings are explained within the workbook instructions at [https://www.holsea.org/](https://www.holsea.org/). We added several columns to the standard HOLSEA format, which are described in the data descriptor. The HOLSEA workbook contains the following sheets:
 
