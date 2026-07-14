@@ -86,9 +86,13 @@ The following files are included in this dataset:
 
 - ***00-README-HOLSEA-GL-Dataverse.md***: This dataset readme file
 - ***01-HOLSEA-GL-ML.xlsx***: XLSX file with Holocene marine limit observations for Greenland in the HOLSEA format including available sheets.
-- ***02-HOLSEA-GL-ML.csv***: CSV file with Holocene marine limit observations for Greenland in the HOLSEA format including long-from columns.
-- ***03-HOLSEA-GL-RSL.xlsx***: XLSX file with Holocene RSL observations for Greenland in the HOLSEA format including available sheets.
+- ***02-HOLSEA-GL-RSL.xlsx***: XLSX file with Holocene RSL observations for Greenland in the HOLSEA format including available sheets.
+- ***03-HOLSEA-GL-ML.csv***: CSV file with Holocene marine limit observations for Greenland in the HOLSEA format including long-from columns.
 - ***04-HOLSEA-GL-RSL.csv***: CSV file with Holocene RSL observations for Greenland in the HOLSEA format including long-from columns.
+- ***05-HOLSEA-GL-ML.gpkg***: Geopackage file with Holocene marine limit observations for Greenland in the HOLSEA format.
+- ***06-HOLSEA-GL-RSL.gpkg***: Geopackage file with Holocene RSL observations for Greenland in the HOLSEA format.
+- ***07-HOLSEA-GL-ML-new-data-template.xlsx***: XLSX template for new Holocene marine limit observations from Greenland in the HOLSEA format.
+- ***08-HOLSEA-GL-RSL-new-data-template.xlsx***: XLSX template for new Holocene RSL observations from Greenland in the HOLSEA format.
 
 Each file name is followed by its version number.
 
