@@ -85,10 +85,10 @@ When plotting local RSL curves, RSL observations should be subset by RSL cluster
 The following files are included in this dataset:
 
 - ***00-README-HOLSEA-GL-Dataverse.md***: This dataset readme file
-- ***01-ML-HOLSEA-GL.xlsx***: XLSX file with Holocene marine limit observations for Greenland in the HOLSEA format including available sheets.
-- ***02-ML-HOLSEA-GL.csv***: CSV file with Holocene marine limit observations for Greenland in the HOLSEA format including long-from columns.
-- ***03-RSL-HOLSEA-GL.xlsx***: XLSX file with Holocene RSL observations for Greenland in the HOLSEA format including available sheets.
-- ***04-RSL-HOLSEA-GL.csv***: CSV file with Holocene RSL observations for Greenland in the HOLSEA format including long-from columns.
+- ***01-HOLSEA-GL-ML.xlsx***: XLSX file with Holocene marine limit observations for Greenland in the HOLSEA format including available sheets.
+- ***02-HOLSEA-GL-ML.csv***: CSV file with Holocene marine limit observations for Greenland in the HOLSEA format including long-from columns.
+- ***03-HOLSEA-GL-RSL.xlsx***: XLSX file with Holocene RSL observations for Greenland in the HOLSEA format including available sheets.
+- ***04-HOLSEA-GL-RSL.csv***: CSV file with Holocene RSL observations for Greenland in the HOLSEA format including long-from columns.
 
 Each file name is followed by its version number.
 
