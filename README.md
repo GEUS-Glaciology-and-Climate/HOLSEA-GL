@@ -93,6 +93,8 @@ The following files are included in this dataset:
 - ***06-HOLSEA-GL-RSL.gpkg***: Geopackage file with Holocene RSL observations for Greenland in the HOLSEA format.
 - ***07-HOLSEA-GL-ML-new-data-template.xlsx***: XLSX template for new Holocene marine limit observations from Greenland in the HOLSEA format.
 - ***08-HOLSEA-GL-RSL-new-data-template.xlsx***: XLSX template for new Holocene RSL observations from Greenland in the HOLSEA format.
+- ***09-HOLSEA-GL-ML-references.pdf***: PDF with the full reference list for HOLSEA-GL-ML.
+- ***10-HOLSEA-GL-RSL-references.pdf***: PDF with the full reference list for HOLSEA-GL-RSL.
 
 Each file name is followed by its version number.
 
