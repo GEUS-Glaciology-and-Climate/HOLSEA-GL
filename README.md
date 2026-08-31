@@ -1,7 +1,7 @@
 # HOLSEA-GL
 This repository is a forum to contribute with new data to HOLSEA-GL and for data issues related to the existing dataset. HOLSEA-GL is a curated database of Holocene relative sea-level (RSL) and marine limit records from Greenland hosted at the Geological Survey of Denmark and Greenland (GEUS).
 
-The dataset is openly available on the [GEUS Dataverse](https://dataverse.geus.dk/dataverse/HOLSEA-GL) for downloading, distributed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+The dataset will soon be openly available on the [GEUS Dataverse](https://dataverse.geus.dk/dataverse/HOLSEA-GL) for downloading, distributed under a [CC BY 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ## Contribute with new data
 We welcome contributions of new data to the HOLSEA-GL database. To contribute:
